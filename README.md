@@ -59,7 +59,7 @@ Overte is a 3D social software project seeking to incrementally bring about a tr
 
 ### Boot to Metaverse: The Goal
 
-Having a place to experience adventure, a place to relax with calm breath, that's a world to live in. An engine to support infinite combinations and possibilities of worlds without censorship and interruption, that's metaverse. Finding a way to make infinite realities our reality is the dream.
+A place to experience adventure, a place to relax and breathe calmly, and a world to live in. An engine to support infinite combinations and possibilities of worlds without censorship and interruption, that's the metaverse we dream of. Our goal is to make infinite realities our reality.
 
 ### Boot to Metaverse: The Technicals
 
